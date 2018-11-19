@@ -1,2 +1,2 @@
 # hellosample
-this is first time my Git study by Node project
+## this is first time my Git study by Node project
